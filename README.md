@@ -1,1 +1,1 @@
-PRODIGY
+I've completed my second task at Prodigy InfoTech! 🎉 This task involved data cleaning and exploratory data analysis (EDA) on the Insurance dataset from Kaggle. It was enriching to explore relationships between variables and identify patterns and trends.
